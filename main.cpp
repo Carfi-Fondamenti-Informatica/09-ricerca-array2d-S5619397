@@ -20,3 +20,4 @@ int main() {
             cout<<funzione(array1, array2) <<endl;
         }
     return 0;
+}
